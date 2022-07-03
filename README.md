@@ -14,4 +14,4 @@ git clone https://github.com/codewithbehzad/Crypto-App.git
 ```
 
 #### Live link
- [https://gorgeous-moonbeam-efa6e1.netlify.app/](https://gorgeous-moonbeam-efa6e1.netlify.app/)
+ [https://cheery-churros-752c1f.netlify.app/](https://cheery-churros-752c1f.netlify.app/)
